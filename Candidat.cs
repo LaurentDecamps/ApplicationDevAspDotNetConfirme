@@ -9,6 +9,7 @@
         internal string Technos { get; set; }
         internal object PosteRecherche { get; set; }
 
+        // TODO à modifier en enum
         internal static object DeveloppeurDotNETConfirme { get; set; }
     }
 }
